@@ -38,7 +38,7 @@ const shuffle = (array) => {
 };
 
 const Quiz = () => {
-  const [screen, setScreen] = useState("home"); // home | loading | quiz | result | error
+  const [screen, setScreen] = useState("home"); // home | loading | quiz | result | errorr
   const [category, setCategory] = useState("");
   const [difficulty, setDifficulty] = useState("");
   const [questions, setQuestions] = useState([]);
