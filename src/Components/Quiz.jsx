@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useCallback } from "react";
-import "./Quiz.css";
+import "./quiz.css";
 
 const TIME_PER_QUESTION = 15;
 
