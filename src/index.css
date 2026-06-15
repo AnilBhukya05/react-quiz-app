@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap');
 
 * {
@@ -19,4 +20,15 @@ body {
   padding: 24px;
   background: radial-gradient(circle at top left, #2d2356 0%, #1a1430 45%, #0f0c1f 100%);
   background-attachment: fixed;
+=======
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  height: 100vh;
+  background-image: linear-gradient(#b0a2d2, #19142a);
+  /* font-family: 'poppins'; */
+>>>>>>> 8866d707b76dd76eeea414409cb764c046666133
 }
