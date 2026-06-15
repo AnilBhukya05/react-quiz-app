@@ -217,7 +217,7 @@ const Quiz = () => {
     );
   }
 
-  // ---------- Error screen ----------
+  // ---------- Error screen --------
   if (screen === "error") {
     return (
       <div className="quiz-card error-card">
